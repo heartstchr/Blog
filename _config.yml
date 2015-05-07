@@ -1,4 +1,4 @@
 baseurl: /tech-blog
-name: Flex
+name: tech-blog
 markdown: redcarpet
 pygments: true
