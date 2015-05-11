@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Up And Running
-cover: cover.jpg
+cover: jekyll.png
 date:   2015-05-07 22:32:00
 categories: posts
 ---

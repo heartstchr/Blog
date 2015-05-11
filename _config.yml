@@ -1,4 +1,4 @@
 baseurl: /tech-blog
 name: tech-blog
 markdown: redcarpet
-pygments: true
+highlighter: true
