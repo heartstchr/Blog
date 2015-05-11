@@ -9,4 +9,4 @@ name: tech-blog
 #Build settings
 markdown: redcarpet
 highlighter: pygments
-permalink: pretty
+permalink: none
