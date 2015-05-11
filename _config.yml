@@ -1,4 +1,12 @@
+# Site settings
+title: Tech-blog |
+email: heartstchr@live.com
+description: Technical blog
 baseurl: /tech-blog
+url: "https://heartstchr.github.io"
 name: tech-blog
+
+#Build settings
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
+permalink: pretty
