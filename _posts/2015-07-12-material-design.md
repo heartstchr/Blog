@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jekyll Up And Running
+title: Material design
 cover: materialdesign.jpg
-date:   2015-05-07 22:32:00
+date:   2015-07-12 14:07:00
 categories: posts
 ---
 
