@@ -151,6 +151,12 @@ a:hover {
   clear: both;
 }
 
+.comments {
+    line-height: 24px;
+    max-width: 725px;
+    clear: both;
+}
+
 .post h2 {
   margin-top: 1.25em;
   margin-left: -0.5em;
