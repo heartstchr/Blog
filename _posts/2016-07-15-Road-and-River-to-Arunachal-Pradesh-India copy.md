@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Road and River to Arunachal Pradesh, India
+title: Lohit River, Arunachal Pradesh, India
 cover: ArunachalPradeshLohit.jpg
 date:   2016-07-15 14:07:00
 categories: posts
 ---
 
+
 My Quarantine place to stay safe would be here. Please comment yours.
 
 Video shows about the Lohit River or Zayü River is a river in Arunachal Pradesh India and China.
+
 ## Road and River to Arunachal Pradesh, India
+
 [![thumbnail](https://heartstchr.github.io/tech-blog/assets/images/arunachal.jpg )](https://youtu.be/Jb9OpzRVlfc "thumbnail")
 
 [![button](https://heartstchr.github.io/tech-blog/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
