@@ -18,7 +18,11 @@ Arunachal Pradesh is the northeasternmost state of India. It borders the states 
 -- Wikipedia
 
 Part-2: Hayuliang, Arunachal Pradesh. Coming soon. Please subscribe.
+
 Follow to stay updated
+
 YouTube: [![button](https://heartstchr.github.io/tech-blog/assets/images/logo.png)](https://www.youtube.com/c/JiwanGhosal)
+
 Instagram: [![button](https://heartstchr.github.io/tech-blog/assets/images/insta.png)](https://www.instagram.com/stchr_heart/) 
+
 Facebook: [![button](https://heartstchr.github.io/tech-blog/assets/images/fb.png)](https://www.facebook.com/jiwan.ghosal/)
