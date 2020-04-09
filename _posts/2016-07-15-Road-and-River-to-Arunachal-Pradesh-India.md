@@ -21,7 +21,7 @@ Part-2: Hayuliang, Arunachal Pradesh. Coming soon. Please subscribe.
 
 Follow to stay updated
 
-YouTube: [![button](https://heartstchr.github.io/tech-blog/assets/images/logo.png)](https://www.youtube.com/c/JiwanGhosal)
+YouTube: [![button](https://heartstchr.github.io/tech-blog/assets/images/logo.jpg)](https://www.youtube.com/c/JiwanGhosal)
 
 Instagram: [![button](https://heartstchr.github.io/tech-blog/assets/images/insta.png)](https://www.instagram.com/stchr_heart/) 
 

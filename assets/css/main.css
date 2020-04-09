@@ -298,6 +298,4 @@ a:hover {
 
 img[alt=button] { width: 120px; }
 img[alt=thumbnail] { width: 850px; }
-img[alt=insta] { width: 850px; }
-img[alt=fb] { width: 850px; }
-img[alt=youtube] { width: 850px; }
+img[alt=insta], img[alt=youtube], img[alt=fb] { width: 30px; }
