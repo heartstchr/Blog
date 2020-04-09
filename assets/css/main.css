@@ -295,3 +295,9 @@ a:hover {
   font-size: 0.95em;
   color: #777;
 }
+
+img[alt=button] { width: 120px; }
+img[alt=thumbnail] { width: 850px; }
+img[alt=insta] { width: 850px; }
+img[alt=fb] { width: 850px; }
+img[alt=youtube] { width: 850px; }
