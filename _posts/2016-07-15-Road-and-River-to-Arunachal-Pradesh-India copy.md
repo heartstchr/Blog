@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Road and River to Arunachal Pradesh, India
-cover: arunachal.jpg
+cover: ArunachalPradeshLohit.jpg
 date:   2016-07-15 14:07:00
 categories: posts
 ---
@@ -16,6 +16,10 @@ Video shows about the Lohit River or Zayü River is a river in Arunachal Pradesh
 
 Arunachal Pradesh is the northeasternmost state of India. It borders the states of Assam and Nagaland to the south. It shares international borders with Bhutan in the west, Myanmar in the east, and China in the north, with which the border is the McMahon Line. Itanagar is the state capital. 
 -- Wikipedia
+
+![thumbnail](https://heartstchr.github.io/tech-blog/assets/images/ArunachalPradeshBrabhaputra.jpg )
+
+![thumbnail](https://heartstchr.github.io/tech-blog/assets/images/ArunachalPradeshLohit.jpg )
 
 Part-2: Hayuliang, Arunachal Pradesh. Coming soon. Please subscribe.
 
