@@ -299,3 +299,4 @@ a:hover {
 img[alt=button] { width: 120px; }
 img[alt=thumbnail] { width: 850px; }
 img[alt=insta], img[alt=youtube], img[alt=fb] { width: 30px; }
+img[title=insta], img[title=youtube], img[title=fb], img[title=button], img[title=thumbnail] { border-bottom:none }
