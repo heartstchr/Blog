@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lohit River, Arunachal Pradesh, India
+title: Lohit River
 cover: ArunachalPradeshLohit.jpg
 date:   2016-07-15 14:07:00
 categories: posts

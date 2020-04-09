@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hayuliang, Arunachal Pradesh, India
+title: Hayuliang
 cover: HayuliangArunachalPradesh.jpg
 date:   2016-07-15 14:07:00
 categories: posts
