@@ -12,8 +12,6 @@ A film which shows haridwar is an ancient city and important Hindu pilgrimage si
 
 Feel free to comment if you need help to travel in har ki pauri.
 
-
-## गंगा आरती ( हरिद्वार ) | Ganga Aarti in Har Ki Pauri, Haridwar-Uttarakhand 
 [![thumbnail]({{ site.baseurl }}/assets/images/ganga-aarti-haridwar-uttrakhand.png)](https://youtu.be/6l9vKv89QzU "thumbnail")
 
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 

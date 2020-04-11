@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Hayuliang
+subtitle: Offbeat place to visit - Hayuliang Arunachal Pradesh, India | Part-2
 cover: HayuliangArunachalPradesh.jpg
 date:   2016-07-15 14:07:00
 categories: posts
 ---
 
 Best offbeat tourist place to experience about mountain, trees, fresh air, cloud and river. Also, peaceful place in Arunachal Pradesh. Different kind of plant used for making medicine all over the world.
-## Offbeat place to visit - Hayuliang Arunachal Pradesh, India | Part-2
+
 [![thumbnail]({{ site.baseurl }}/assets/images/HayuliangArunachalPradesh.jpg )](https://youtu.be/6l9vKv89QzU "thumbnail")
 
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
