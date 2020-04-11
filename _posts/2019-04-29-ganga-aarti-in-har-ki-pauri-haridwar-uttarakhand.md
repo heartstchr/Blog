@@ -2,7 +2,7 @@
 layout: post
 title: Ganga Aarti | गंगा आरती
 cover: ganga-aarti-haridwar-uttrakhand.png
-date:   2016-07-15 14:07:00
+date:   2019-04-29 18:39:00
 categories: posts
 author: jiwan_ghosal
 ---
