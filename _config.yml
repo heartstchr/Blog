@@ -1,8 +1,8 @@
 # Site settings
 title: Blog |
-email: heartstchr@live.com
-description: Technical blog
-baseurl: /tech-blog
+email: jiwan.cse@gmail.com
+description: Blog
+baseurl: /blog
 url: "https://heartstchr.github.io"
 name: tech-blog
 
@@ -10,3 +10,12 @@ name: tech-blog
 markdown: redcarpet
 highlighter: pygments
 permalink: none
+
+#Author settings
+jiwan_ghosal:
+    name: Jiwan Ghosal
+    email: jiwan.cse@gmail.com
+    web: https://heartstchr.github.io/
+elaine_osbourn:
+    name: Elaine Osbourn
+    web: https://www.twitter.com/kittylainey
