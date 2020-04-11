@@ -13,16 +13,16 @@ Feel free to comment if you need help to travel in har ki pauri.
 
 
 ## गंगा आरती ( हरिद्वार ) | Ganga Aarti in Har Ki Pauri, Haridwar-Uttarakhand 
-[![thumbnail](https://heartstchr.github.io/blog/assets/images/ganga-aarti-haridwar-uttrakhand.png)](https://youtu.be/6l9vKv89QzU "thumbnail")
+[![thumbnail](https://heartstchr.github.io/tech-blog/assets/images/ganga-aarti-haridwar-uttrakhand.png)](https://youtu.be/6l9vKv89QzU "thumbnail")
 
-[![button](https://heartstchr.github.io/blog/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
+[![button](https://heartstchr.github.io/tech-blog/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
 
 
 
 Follow to stay updated
 
-YouTube: [![youtube](https://heartstchr.github.io/blog/assets/images/logo.jpg)](https://www.youtube.com/c/JiwanGhosal "youtube")
+YouTube: [![youtube](https://heartstchr.github.io/tech-blog/assets/images/logo.jpg)](https://www.youtube.com/c/JiwanGhosal "youtube")
 
-Instagram: [![insta](https://heartstchr.github.io/blog/assets/images/insta.png)](https://www.instagram.com/stchr_heart/ "insta") 
+Instagram: [![insta](https://heartstchr.github.io/tech-blog/assets/images/insta.png)](https://www.instagram.com/stchr_heart/ "insta") 
 
-Facebook: [![fb](https://heartstchr.github.io/blog/assets/images/fb.png)](https://www.facebook.com/jiwan.ghosal/ "fb")
+Facebook: [![fb](https://heartstchr.github.io/tech-blog/assets/images/fb.png)](https://www.facebook.com/jiwan.ghosal/ "fb")
