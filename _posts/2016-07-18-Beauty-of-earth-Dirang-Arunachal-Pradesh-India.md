@@ -2,8 +2,8 @@
 layout: post
 title: Dirang valley
 subtitle: Beauty of earth! Dirang, Arunachal Pradesh India
-cover: ArunachalPradeshLohit.jpg
-date:   2016-07-15 14:07:00
+cover: dirang-valley.png
+date:   2016-07-18 14:07:00
 categories: posts
 ---
 
@@ -11,6 +11,7 @@ categories: posts
 Travel points: Gwahati ► Bomdila ► Dirang ► Sella Pass
 
 > Pre-requisite
+
     ▬ To cross Bomdila check post  you require pass. But don't worry driver will do it for you.
     ▬ A cab having heater.
     ▬ Woollen cloth.
