@@ -2,7 +2,7 @@
 layout: post
 title: Ganga Aarti | गंगा आरती
 subtitle: गंगा आरती ( हरिद्वार ) | Ganga Aarti in Har Ki Pauri, Haridwar-Uttarakhand 
-cover: ganga-aarti-haridwar-uttrakhand.png
+cover: Ganga-Aarti-in-Har-Ki-Pauri-Haridwar-Uttarakhand-HKP.jpg
 date:   2019-04-29 18:39:00
 categories: posts
 author: jiwan_ghosal
