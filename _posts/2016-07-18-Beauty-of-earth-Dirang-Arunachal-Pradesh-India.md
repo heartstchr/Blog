@@ -21,6 +21,8 @@ Travel points: Gwahati ► Bomdila ► Dirang ► Sella Pass
 
 [![thumbnail]({{ site.baseurl }}/assets/images/dirang-valley.png )](https://youtu.be/KSOgOS-8h1k "thumbnail")
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KSOgOS-8h1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
 
 Dirang is a small town in the West Kameng district of Arunachal Pradesh. It is located about 43 km from Bomdila on the way to Tawang. Dirang is located on the bank of river Kameng (Known as Jia Bharali in Assam). Since it is on the river valley the altitude is relatively low (4900 ft).
