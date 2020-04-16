@@ -13,7 +13,7 @@ My Quarantine place to stay safe would be here. Please comment yours.
 Video shows about the Lohit River or Zayü River is a river in Arunachal Pradesh India and China.
 
 
-[![thumbnail]({{ site.baseurl }}/assets/images/arunachal.jpg )](https://youtu.be/Jb9OpzRVlfc "thumbnail")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jb9OpzRVlfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
 

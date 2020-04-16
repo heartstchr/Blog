@@ -9,7 +9,7 @@ categories: posts
 
 Best offbeat tourist place to experience about mountain, trees, fresh air, cloud and river. Also, peaceful place in Arunachal Pradesh. Different kind of plant used for making medicine all over the world.
 
-[![thumbnail]({{ site.baseurl }}/assets/images/HayuliangArunachalPradesh.jpg )](https://youtu.be/6l9vKv89QzU "thumbnail")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6l9vKv89QzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
 

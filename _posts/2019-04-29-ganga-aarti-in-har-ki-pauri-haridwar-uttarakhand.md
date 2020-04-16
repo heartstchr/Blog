@@ -10,9 +10,7 @@ author: jiwan_ghosal
 
 A film which shows haridwar is an ancient city and important Hindu pilgrimage site in North India's Uttarakhand state, where the River Ganges exits the Himalayan foothills. The largest of several sacred ghats (bathing steps), Har Ki Pauri hosts a nightly Ganga Aarti (river-worshipping ceremony) in which tiny flickering lamps are floated off the steps. Worshipers fill the city during major festivals including the annual Kanwar Mela.
 
-Feel free to comment if you need help to travel in har ki pauri.
-
-[![thumbnail]({{ site.baseurl }}/assets/images/ganga-aarti-haridwar-uttrakhand.png)](https://youtu.be/6l9vKv89QzU "thumbnail")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKy8H5HAbis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
 

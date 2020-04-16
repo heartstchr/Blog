@@ -19,8 +19,6 @@ Travel points: Gwahati ► Bomdila ► Dirang ► Sella Pass
     ▬ Snacks and beverages.
 
 
-[![thumbnail]({{ site.baseurl }}/assets/images/dirang-valley.png )](https://youtu.be/KSOgOS-8h1k "thumbnail")
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSOgOS-8h1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![button]({{ site.baseurl }}/assets/images/button.png)](https://www.youtube.com/c/JiwanGhosal/?sub_confirmation=1 "button") 
